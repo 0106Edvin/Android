@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeworkAndroid</string>
+    <string name="title">Add a person</string>
+    <string name="addButton">Add</string>
+    <string name="name"/>
+    <string name="surname"/>
+    <string name="delete">Delete</string>
+    <string name="idperson"/>
+    <string name="editname"/>
+    <string name="editsurname"/>
+    <string name="update">UPDATE</string>
+    <string name="sortbyname">Sort by name</string>
+    <string name="sortbsurname">Sort by surname</string>
+</resources>
